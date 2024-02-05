@@ -24,7 +24,6 @@
 #include <net/rtnetlink.h>
 #include <net/ip_tunnels.h>
 #include <net/addrconf.h>
-#include <linux/skbuff.h>
 
 static LIST_HEAD(device_list);
 
